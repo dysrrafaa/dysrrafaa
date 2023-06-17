@@ -5,7 +5,8 @@
      </p>
   </div>
   💬  he/him<br>
-  🏢  Junior Software Engineer @dysrrafaa<br>
+  🏢  Junior Full Stack Developer @dysrrafaa<br>
+  📚  Computer Cientist<br>
   🗺  SP/Campinas<br>
   <div>
     <h2> Contact </h2>
