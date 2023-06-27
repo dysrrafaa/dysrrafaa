@@ -1,5 +1,5 @@
 <div align="center">
-  <img width= 40% src="">
+  <img width= 80% src="https://user-images.githubusercontent.com/129704094/249204924-7300136c-bc7a-496d-866b-520b6b1b6288.jpg">
 </div>
 <div>
   <h2> 👋 Hey, I'm Rafael </h2>
