@@ -1,3 +1,6 @@
+<div align="center">
+  <img width= 40% src="">
+</div>
 <div>
   <h2> 👋 Hey, I'm Rafael </h2>
   <p align="left">
