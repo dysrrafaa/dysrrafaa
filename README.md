@@ -1,8 +1,9 @@
 <div align="center">
-  <img width= 70% src="https://user-images.githubusercontent.com/129704094/249495651-24a81c20-9d95-44a1-8b71-aa0f7b9ac040.gif">
+  <img width= 100% src="https://user-images.githubusercontent.com/129704094/250657190-3d02af8a-d3db-4454-bbe6-35f7bc2b6a74.gif">
 </div>
 <div>
-  <h2> 👋 Hey, I'm Rafael </h2>
+
+  <h2> 👋 Hey, I'm Rafael</h2>
   <p align="left">
     Welcome to my profile! I'm Rafael, 18 years old, Brazilian web developer passionate about technology and turning everything into fun! Please feel free to contact me any way you like. Thanks!
      </p>
