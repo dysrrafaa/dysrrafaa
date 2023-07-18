@@ -10,8 +10,8 @@
   </div>
   💬  he/him <br>
   🏢  Junior Full Stack Developer @dysrrafaa <br>
+  📚  Computer Cientist - 2º Semester <br>
   🎮  Gamer Boy <br>
-  📚  Computer Cientist <br>
   🗺  SP/Campinas <br>
   <div>
     <h2> Contact Me </h2>
@@ -20,7 +20,7 @@
     <a target="_blank" href="raaf.marques019@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a target="_blank" href="https://www.instagram.com/dys_rrafaa"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
     <a target="_blank" href="https://twitter.com/raaf_marques"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-    <a target="_blank" href="https://www.linkedin.com/in/rafael-marques019"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+    <a target="_blank" href="https://www.linkedin.com/in/dysrrafaa"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   </p>
 </div>
 <div>
