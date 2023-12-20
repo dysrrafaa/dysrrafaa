@@ -5,7 +5,7 @@
 
   <h2 align="center"> 🗯 Hey, welcome to my profile! Enjoy. 🗯 </h2>
   <p align="left">
-    What's up? I'm Rafael, 18 years old, brazilian web developer passionate about technology and turning everything into fun! Please feel free to contact me any way you like. Thanks!
+    What's up? I'm Rafael, 19 years old, brazilian web developer passionate about technology and turning everything into fun! Please feel free to contact me any way you like. Thanks!
      </p>
   </div>
   💬  he/him <br>
