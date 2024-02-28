@@ -10,7 +10,7 @@
   </div>
   💬  he/him <br>
   🏢  Junior Full Stack Developer @dysrrafaa <br>
-  📚  Computer Cientist - 2º Semester <br>
+  📚  Computer Cientist - 3º Semester <br>
   🎮  Gamer Boy <br>
   🗺  SP/Campinas <br>
   <div>
