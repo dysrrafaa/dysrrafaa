@@ -9,17 +9,16 @@
      </p>
   </div>
   💬  he/him <br>
-  🏢  Junior Full Stack Developer @dysrrafaa <br>
-  📚  Computer Cientist - 3º Semester <br>
+  🏢  Starter Back-End Developer @dysrrafaa <br>
+  📚  Computer Cientist - 4º Semester <br>
   🎮  Gamer Boy <br>
   🗺  SP/Campinas <br>
   <div>
     <h2> Contact Me </h2>
   <p>
-    <a target="_blank" href="https://discord.com/users/412685400847679508"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a target="_blank" href="https://discord.com/users/1079984031820681338"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a target="_blank" href="raaf.marques019@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a target="_blank" href="https://www.instagram.com/dys_rrafaa"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-    <a target="_blank" href="https://twitter.com/raaf_marques"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
     <a target="_blank" href="https://www.linkedin.com/in/dysrrafaa"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   </p>
 </div>
@@ -27,8 +26,6 @@
   <h2> Stacks - Languages </h2>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <br>
