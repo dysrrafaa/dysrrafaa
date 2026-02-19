@@ -5,12 +5,12 @@
 
   <h2 align="center"> 🗯 Hey, welcome to my profile! Enjoy. 🗯 </h2>
   <p align="left">
-    What's up? I'm Rafael, 19 years old, brazilian web developer passionate about technology and turning everything into fun! Please feel free to contact me any way you like. Thanks!
+    What's up? I'm Rafael, 21 years old, brazilian web developer passionate about technology and turning everything into fun! Please feel free to contact me any way you like. Thanks!
      </p>
   </div>
   💬  he/him <br>
-  🏢  Starter Back-End Developer @dysrrafaa <br>
-  📚  Computer Cientist - 4º Semester <br>
+  🏢  Software Developer @dysrrafaa <br>
+  📚  Computer Cientist - 7º Semester B.Sc <br>
   🎮  Gamer Boy <br>
   🗺  SP/Campinas <br>
   <div>
@@ -28,9 +28,6 @@
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <br>
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <br>
   <img alt="MySQL" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
